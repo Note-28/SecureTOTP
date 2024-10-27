@@ -11,3 +11,10 @@ A simple Python tool for generating Time-based One-Time Passwords (TOTP) using H
 
 - Python 3.x
 
+## Contributing
+
+Feel free to open issues or submit pull requests for any improvements. Contributions are welcome!
+
+## Author
+
+- Manan Punatu
